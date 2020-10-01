@@ -1,6 +1,6 @@
 # Flutter Calculator
 
-<img src="Logotype primary.png" width="70%" height="70%" />
+<img src="Logotype primary.png" width="50%" height="50%" />
 
 ## Getting Started
 To build and run this project:
